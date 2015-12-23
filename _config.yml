@@ -1,0 +1,28 @@
+name: MplsFilms
+favicon: null
+layout_spectrum: 0.8313425849191844
+typography_spectrum: 0.11993375304155052
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.5084596718661487
+  lightness: 0.0018584863282740116
+  saturation: 0.8794650696218014
+  rhythmicContrast: 0.29208136443048716
+purpose: []
