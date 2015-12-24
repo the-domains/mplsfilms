@@ -1,13 +1,14 @@
 ---
 inFeed: true
-hasPage: true
-inNav: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://vimeo.com/105515809'
 inLanguage: null
 starred: false
 keywords: []
 description: 'This is "QuadCopter Reel 2014" by on Vimeo, the home for high quality videos and the people who love them.'
-datePublished: '2015-12-24T16:55:57.878Z'
-dateModified: '2015-12-24T16:53:52.591Z'
+datePublished: '2015-12-24T16:56:42.163Z'
+dateModified: '2015-12-24T16:56:26.094Z'
 author:
   - name: MplsFilms
     url: 'http://vimeo.com/patrickmeehan'
@@ -32,7 +33,6 @@ publisher:
   domain: vimeo.com
   url: 'https://vimeo.com/'
   favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
-url: quadcopter-reel-2014/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 
