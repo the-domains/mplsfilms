@@ -4,11 +4,11 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'https://vimeo.com/149567489'
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: Sony a7sII and GoPro 4 Sony 16-35mm and 70-200 lenses Sony timelapse app in camera Edited in Premiere using Lumetri to color
-datePublished: '2015-12-27T15:16:34.541Z'
-dateModified: '2015-12-27T15:08:33.734Z'
+datePublished: '2015-12-27T15:30:27.286Z'
+dateModified: '2015-12-27T15:30:17.452Z'
 author:
   - name: MplsFilms
     url: 'http://vimeo.com/patrickmeehan'
