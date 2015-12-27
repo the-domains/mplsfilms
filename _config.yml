@@ -1,6 +1,6 @@
 name: MplsFilms
 favicon: null
-layout_spectrum: 0.35261
+layout_spectrum: 0.50483
 typography_spectrum: 0.5580022
 collections:
   - index:
@@ -35,7 +35,7 @@ color:
     - '#c57842'
     - '#fee2b7'
   brandStrength: 0
-  lightness: 0.001858486328274012
-  saturation: 1
-  rhythmicContrast: 0.25
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0
 purpose: []
